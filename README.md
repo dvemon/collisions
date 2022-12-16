@@ -1,6 +1,6 @@
 # collisions
 
-simulating the movement and collision of circles in a confined space using basic physics and circle-circle collision theorem
+simulating the movement and collision of circles in a confined space using basic physics and circle-circle collision algorithm
 
 ### how to use
 interact with the program by holding down the mouse button to draw a circle\
